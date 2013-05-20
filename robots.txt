@@ -1,0 +1,6 @@
+# robots.txt for http://imalberto.me
+
+User-Agent: *
+Disallow: /imalberto.github.io.esproj/*
+Disallow: /README.md
+Disallow: /CNAME
